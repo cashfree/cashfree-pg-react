@@ -1,0 +1,44 @@
+{
+  "_from": "cashfreereactnativepg",
+  "_id": "cashfreereactnativepg@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-PSYQSptbV2emmLPpoLGp6oE6RaByI2FavEqxOaKwToPR4tP7SqOPCX2qfgk1xIYWe1QgA2X5t1c6jzEUV+Yldw==",
+  "_location": "/cashfreereactnativepg",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cashfreereactnativepg",
+    "name": "cashfreereactnativepg",
+    "escapedName": "cashfreereactnativepg",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cashfreereactnativepg/-/cashfreereactnativepg-1.0.0.tgz",
+  "_shasum": "3039a4d4f0d6c343485ca221e693a8f9508887bc",
+  "_spec": "cashfreereactnativepg",
+  "_where": "/Users/preethadatta/RESEARCH/exampleMerchant",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native module for Cashfree's PG integration",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cashfreereactnativepg",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "npm"
+  },
+  "version": "1.0.0"
+}
