@@ -2,7 +2,7 @@
 Cashfree PG React Native SDK 
 
 
-## Things you will need on your system : 
+## Requirements : 
 
 * [XCode](https://developer.apple.com/xcode/) 
 * [NPM](https://www.npmjs.com/) 
