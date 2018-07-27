@@ -16,7 +16,7 @@ Cd path/to/directory
 ```
 Npm start
 ```
-This should start the metro bundler
+This should start the metro bundler </br>
 In case of IOS : 
 ```
 React-native run-ios
