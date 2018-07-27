@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/RCTView.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
