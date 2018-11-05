@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

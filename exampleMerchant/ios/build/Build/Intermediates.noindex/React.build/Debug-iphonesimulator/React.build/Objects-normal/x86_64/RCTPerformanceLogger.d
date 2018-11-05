@@ -1,15 +1,15 @@
 dependencies: \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTPerformanceLogger.m \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Profiler/RCTProfile.h
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTPerformanceLogger.m \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Profiler/RCTProfile.h

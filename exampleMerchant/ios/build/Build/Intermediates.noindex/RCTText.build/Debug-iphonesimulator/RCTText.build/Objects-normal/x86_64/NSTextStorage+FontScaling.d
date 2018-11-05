@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h

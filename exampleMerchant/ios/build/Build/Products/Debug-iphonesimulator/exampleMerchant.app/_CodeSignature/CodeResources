@@ -6,35 +6,19 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		MSql6dOSS2kVN7BxoWbdVRjYmCM=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<data>
-		8CN5cCzwKl0+7ieNPMN/SawZQA8=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<data>
-		Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<data>
-		UU+vWjYvpE8lKAxV1lE2tUbIZA0=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<data>
-		znuKt4UiTOJWwzrlgwaYX94o/a4=
+		rysImHmmGy2OXT5jC7Fi6XU9Wj4=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
-		uPxPInP5h9+ERgCm8NCXpuuMEmg=
+		DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		aHoR6mqqp0XWLqiw49+MRuFNQLk=
+		HK6asLJ70IK7E4e83e8R1gxACHo=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
+		/8LQToTPOL9FsEsYDaACQ21Day0=
 		</data>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -47,11 +31,15 @@
 		</dict>
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
-		DmGu9k7yBOLSfwtyNbn3zYir630=
+		P6P66kW7+LvLIo4WHjXGltpT8CA=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		xKX69bDGMJa2TcU/BC9ypZ06rsI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Gm9WJReAZr/XoAB+V8rP+/FaIMk=
+		3V3EdYauZl1MNCM4+FEUAqcZlks=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,19 +51,19 @@
 		</data>
 		<key>PlugIns/exampleMerchantTests.xctest.dSYM/Contents/Resources/DWARF/exampleMerchantTests</key>
 		<data>
-		Nm68jSwoFIiI0aJbf+NhFuXIfLA=
+		+Ck2gTQKGl5b4JAXzAOI/82doWE=
 		</data>
 		<key>PlugIns/exampleMerchantTests.xctest/Info.plist</key>
 		<data>
-		xh43Uti8rHY0QbTU4OfBX8EU3wg=
+		uxFg9n+eJxVM9KwkTH5cKq5xuGo=
 		</data>
 		<key>PlugIns/exampleMerchantTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		OtAaiXhXI+nXJAu+bp4ql8h+GVg=
+		8FU48Mu9q30gpuSy3kFR16uhEEI=
 		</data>
 		<key>PlugIns/exampleMerchantTests.xctest/exampleMerchantTests</key>
 		<data>
-		0hXV7dooZqBISLTvhf3a4z3tk2s=
+		YiOpBUqE/BFNz/CSdEN2E+OsT7s=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,88 +72,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MSql6dOSS2kVN7BxoWbdVRjYmCM=
+			rysImHmmGy2OXT5jC7Fi6XU9Wj4=
 			</data>
 			<key>hash2</key>
 			<data>
-			WqF22kPB/FsJ6yHQHGg8Rq7q5KZacUQFKnqyzspxI4Q=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8CN5cCzwKl0+7ieNPMN/SawZQA8=
-			</data>
-			<key>hash2</key>
-			<data>
-			/R1Uy1RZ7ljX2V8ZHMhD4g8ieWHns9sj34YDK2McvfY=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
-			</data>
-			<key>hash2</key>
-			<data>
-			IvG0kD54lYvEZzfjVmXtrtBdydTUy1uFZkZXUddfTzY=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UU+vWjYvpE8lKAxV1lE2tUbIZA0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ja3vToXIdN/BmsoAh4U4btDVl5lKbzndKf99CyxV6K4=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			znuKt4UiTOJWwzrlgwaYX94o/a4=
-			</data>
-			<key>hash2</key>
-			<data>
-			napzzKlhgK6Qoqz8QO+9TkyuIsW5V+s6GmClALe2lT4=
+			9oa2wK+4RW5pK1M2nj0aq2octut78mAdRcuLjVPtDyI=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uPxPInP5h9+ERgCm8NCXpuuMEmg=
+			DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			N77/gSJpnPT4ryPaR4IJ55aYyiiMCKjlq79qrCmGxU8=
+			VfVpYXVjG5OK2j8J39CP2mIMg1P5eFaYkRIJ/Hb2RSQ=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aHoR6mqqp0XWLqiw49+MRuFNQLk=
+			HK6asLJ70IK7E4e83e8R1gxACHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			unqlGEn5cq6B36PWWq/mAoeeub7L9yZ3vWK7mP9EscQ=
+			olgg9NXiZ2M1ifvjBR8uTJxtXlM5EacLdDrNxfmImoY=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
+			/8LQToTPOL9FsEsYDaACQ21Day0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OXS9XX1oATlfFoPHZbc7OGt7HUXfXzNrCz28TkkBo/g=
+			C7sJpbu4qpi8/rH5JYpdQYncotP69JQ9Fiu8jrHXYvU=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
@@ -185,11 +129,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DmGu9k7yBOLSfwtyNbn3zYir630=
+			P6P66kW7+LvLIo4WHjXGltpT8CA=
 			</data>
 			<key>hash2</key>
 			<data>
-			2hnwNPgdaewT28DbTqe0Gpaccdc2akBF8IjnGtISc58=
+			2BV684CZjHtMZHxSiwC5qc/DGXv9WIOWUc9dEU/Q1pw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKX69bDGMJa2TcU/BC9ypZ06rsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
 			</data>
 		</dict>
 		<key>PlugIns/exampleMerchantTests.xctest.dSYM/Contents/Info.plist</key>
@@ -207,44 +162,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nm68jSwoFIiI0aJbf+NhFuXIfLA=
+			+Ck2gTQKGl5b4JAXzAOI/82doWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			5zvLi24nyLrbJ03kaAL2twSO9aZIgT3swMiYmmkusb8=
+			FY98N4mvc9L/cWc+OlCvgCAJdZjhSCHcfdc134dPJhU=
 			</data>
 		</dict>
 		<key>PlugIns/exampleMerchantTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xh43Uti8rHY0QbTU4OfBX8EU3wg=
+			uxFg9n+eJxVM9KwkTH5cKq5xuGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			793bs1Fy2QDcy2Wkt1MKggUbmSuRN/dVZxB19cHSeMo=
+			go4CdxlZWLrxTJVnnG/bTbm+2u8wcxyStGMn1khIFUk=
 			</data>
 		</dict>
 		<key>PlugIns/exampleMerchantTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OtAaiXhXI+nXJAu+bp4ql8h+GVg=
+			8FU48Mu9q30gpuSy3kFR16uhEEI=
 			</data>
 			<key>hash2</key>
 			<data>
-			M3F3mjf+FnMSPr2Xoz6eQcNZrfDDtjGxesFdOaeviEE=
+			WEOO1N1NsxLMxwBlYiXzbGsFqxa9e/CFYwTz2YXAILI=
 			</data>
 		</dict>
 		<key>PlugIns/exampleMerchantTests.xctest/exampleMerchantTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0hXV7dooZqBISLTvhf3a4z3tk2s=
+			YiOpBUqE/BFNz/CSdEN2E+OsT7s=
 			</data>
 			<key>hash2</key>
 			<data>
-			feclZi0wEMyzx3nrcO03sC9Uuufu1ennD1k5gNPM/TM=
+			pVphk2krSXiK1Ly4yV188s2kaRHYquN/WNxTP2v2kZE=
 			</data>
 		</dict>
 	</dict>

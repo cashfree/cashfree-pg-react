@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTParserUtils.m \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTParserUtils.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/preethadatta/RESEARCH/exampleMerchant/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTParserUtils.m \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/basilm/Desktop/react-dev/cashfree-react-native-pg/cashfree-pg-react/exampleMerchant/node_modules/react-native/React/Base/RCTUtils.h
