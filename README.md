@@ -5,16 +5,17 @@ Cashfree PG React Native SDK
 ## Requirements : 
 
 * [XCode](https://developer.apple.com/xcode/) 
+* [AndroidStudio](https://developer.android.com/studio)
 * [NPM](https://www.npmjs.com/) 
 * [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 
 
 ## Steps for React Native Simulator : 
 ```
-Cd path/to/directory
+cd path/to/directory
 ```
 ```
-Npm start
+npm start
 ```
 This should start the metro bundler </br>
 In case of IOS : 
@@ -34,7 +35,7 @@ This will start the simulator and you should be able to see the example Merchant
 npm i cashfreereactnativepg
 ````
 
-The NPM module can be found [https://www.npmjs.com/package/cashfreereactnativepg](here).
+The NPM module can be found [here](https://www.npmjs.com/package/cashfreereactnativepg).
 
 
  
