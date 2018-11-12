@@ -40,19 +40,19 @@ class DetailsScreen extends React.Component {
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
          
          <CashfreePG 
-          appId="275432e3853bd165afbf5272" 
-          orderId="testRN-12m1311aa"
-          orderAmount = "100"
+          appId='YOUR-APP-ID'
+          orderId='testRN-12m1311aa'
+          orderAmount = '100'
           orderCurrency = 'INR'
-          orderNote = "testing"
-          source = "reactsdk"
+          orderNote = 'testing'
+          source = 'reactsdk'
           customerName = 'Preetha'
           customerEmail = 'abc@gmail.com'
           customerPhone = '1234561234'
-          notifyUrl = "https://www.notgoogle.com"
-          paymentModes = "nb"
-          env = "TEST"
-          checksumUrl = "https://test.cashfree.com/checksum-react.php"
+          notifyUrl = 'https://www.notgoogle.com'
+          paymentModes = ''
+          env = 'TEST'
+          checksumUrl = 'https://test.cashfree.com/checksum-react.php'
           caller = {this}
           /> 
         <Button
