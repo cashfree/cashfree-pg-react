@@ -18,7 +18,6 @@ class HomeScreen extends React.Component {
   }
 }
 
-
 class DetailsScreen extends React.Component {
   static navigationOptions = ({ navigationOptions }) => {
 
@@ -40,19 +39,19 @@ class DetailsScreen extends React.Component {
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
          
          <CashfreePG 
-          appId='YOUR-APP-ID'
-          orderId='testRN-12m1311aa'
+          appId='APP_ID'
+          orderId='ORDER_ID'
           orderAmount = '100'
           orderCurrency = 'INR'
           orderNote = 'testing'
           source = 'reactsdk'
-          customerName = 'Preetha'
-          customerEmail = 'abc@gmail.com'
+          customerName = 'John Doe'
+          customerEmail = 'abc@domain.com'
           customerPhone = '1234561234'
-          notifyUrl = 'https://www.notgoogle.com'
+          notifyUrl = 'NOTIFYURL'
           paymentModes = ''
           env = 'TEST'
-          checksumUrl = 'https://test.cashfree.com/checksum-react.php'
+          tokenData = 'TOKENDATA'
           caller = {this}
           /> 
         <Button
@@ -95,3 +94,4 @@ export default class App extends React.Component {
     return <RootStack />;
   }
 }
+
