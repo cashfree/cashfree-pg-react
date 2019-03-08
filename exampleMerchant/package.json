@@ -1,5 +1,5 @@
 {
-  "name": "exampleMerchant",
+  "name": "rn58",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,16 +8,19 @@
   },
   "dependencies": {
     "cashfreereactnativepg": "^1.2.4",
-    "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react": "16.6.3",
+    "react-native": "0.58.6",
     "react-native-base64": "0.0.2",
-    "react-navigation": "^2.8.0"
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-webview": "^5.3.0",
+    "react-navigation": "^3.3.2"
   },
   "devDependencies": {
-    "babel-jest": "23.4.0",
-    "babel-preset-react-native": "^5",
-    "jest": "23.4.0",
-    "react-test-renderer": "16.4.1"
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "24.3.1",
+    "jest": "24.3.1",
+    "metro-react-native-babel-preset": "0.53.0",
+    "react-test-renderer": "16.6.3"
   },
   "jest": {
     "preset": "react-native"

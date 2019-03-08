@@ -1,16 +1,19 @@
-import React, { Component } from 'react';
-import { Text, View,StyleSheet, Button, Alert } from 'react-native';
-import  { CashfreePG, returnData } from 'cashfreereactnativepg';
-import { createStackNavigator } from 'react-navigation'; // Version can be specified in package.json
+import React, {Component} from 'react';
+import {Platform, StyleSheet, Text, View, Button, Alert} from 'react-native';
+import { createStackNavigator, createAppContainer } from 'react-navigation'; // Version can be specified in package.json
 import base64 from 'react-native-base64'
+import { CashfreePG, returnData } from 'cashfreereactnativepg';
 
 class HomeScreen extends React.Component {
+  static navigationOptions = {
+    title: 'Home',
+  };
   render() {
     return (
-      <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-        <Text>Home Screen : Example APP</Text>
+      <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+        <Text>Home Screen</Text>
         <Button
-          title="Go to Payments"
+          title="Go to Details"
           onPress={() => this.props.navigation.navigate('Details')}
         />
       </View>
@@ -19,63 +22,51 @@ class HomeScreen extends React.Component {
 }
 
 class DetailsScreen extends React.Component {
-  static navigationOptions = ({ navigationOptions }) => {
-
-    return {
-      title: 'Payment',
-      headerStyle: {
-      },
-      headerTintColor: navigationOptions.headerStyle.backgroundColor,
-    };
+  static navigationOptions = {
+    title: 'Payment',
   };
 
   constructor(props) {
     super(props);
     this.state = {testData: ''};
   }
-
-  render() {    
+  render() {
     return (
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
          
-         <CashfreePG 
-          appId='APP_ID'
-          orderId='ORDER_ID'
-          orderAmount = '100'
-          orderCurrency = 'INR'
-          orderNote = 'testing'
-          source = 'reactsdk'
-          customerName = 'John Doe'
-          customerEmail = 'abc@domain.com'
-          customerPhone = '1234561234'
-          notifyUrl = 'NOTIFYURL'
-          paymentModes = ''
-          env = 'TEST'
-          tokenData = 'TOKENDATA'
-          caller = {this}
-          /> 
-        <Button
-          title="Go back"
-          onPress={() => this.props.navigation.goBack()}
-        />
-        <Text>{base64.decode(this.state.testData)}</Text>
-      </View>
-
+          <CashfreePG 
+           appId='YOUR-APP-ID'
+           orderId='Order01-RN-11003'
+           orderAmount = '52'
+           orderCurrency = 'INR'
+           orderNote = 'testing'
+           source = 'reactsdk'
+           customerName = 'John Doe'
+           customerEmail = 'abc@domain.com'
+           customerPhone = '1234561234'
+           notifyUrl = 'YOUR-NOTIFY-URL'
+           paymentModes = ''
+           env = 'TEST'
+           tokenData = 'CFTOKEN-VALUE'
+           caller = {this}
+           /> 
+         <Button
+           title="Go back"
+           onPress={() => this.props.navigation.goBack()}
+         />
+         <Text>{base64.decode(this.state.testData)}</Text>
+       </View>      
     );
   }
 }
 
-const RootStack = createStackNavigator(
+const AppNavigator = createStackNavigator(
   {
-    Home: {
-      screen: HomeScreen,
-    },
-    Details: {
-      screen: DetailsScreen,
-    },
+    Home: HomeScreen,
+    Details: DetailsScreen
   },
   {
-    initialRouteName: 'Home',
+    initialRouteName: "Home",
     navigationOptions: {
       headerBackTitleVisible : 'true' ,     
       headerStyle: {
@@ -86,12 +77,13 @@ const RootStack = createStackNavigator(
         fontWeight: 'bold',
       },
     },
-  }
+  },
 );
+
+const AppContainer = createAppContainer(AppNavigator);
 
 export default class App extends React.Component {
   render() {
-    return <RootStack />;
+    return <AppContainer />;
   }
 }
-
