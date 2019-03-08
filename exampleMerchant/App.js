@@ -35,7 +35,7 @@ class DetailsScreen extends React.Component {
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
          
           <CashfreePG 
-           appId='275432e3853bd165afbf5272'
+           appId='YOUR-APP-ID'
            orderId='Order01-RN-11003'
            orderAmount = '52'
            orderCurrency = 'INR'
@@ -44,10 +44,10 @@ class DetailsScreen extends React.Component {
            customerName = 'John Doe'
            customerEmail = 'abc@domain.com'
            customerPhone = '1234561234'
-           notifyUrl = ''
+           notifyUrl = 'YOUR-NOTIFY-URL'
            paymentModes = ''
            env = 'TEST'
-           tokenData = 's89JCN4MzUIJiOicGbhJCLiQ1VKJiOiAXe0Jye.ZtQfiEGMlBjMmlzN1IDOjVjI6ICdsF2cfJCLzgTO3MjN0UTNxojIwhXZiwiIS5USiojI5NmblJnc1NkclRmcvJCLiITNiojI05Wdv1WQyVGZy9mIsIyMwATMx0iTS1SMwIXZkJ3TiojIklkclRmcvJye.BsHkzQ-9qZBV-LHPY0hHO4z-2wfgXZcYthdMz0BC0sp8i-Gr3LQAzeeqY1cYpFC16Q'
+           tokenData = 'CFTOKEN-VALUE'
            caller = {this}
            /> 
          <Button
