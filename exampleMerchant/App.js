@@ -38,7 +38,6 @@ class DetailsScreen extends React.Component {
            appId='YOUR-APP-ID'
            orderId='Order01-RN-11003'
            orderAmount = '52'
-           orderCurrency = 'INR'
            orderNote = 'testing'
            source = 'reactsdk'
            customerName = 'John Doe'

@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "cashfreereactnativepg": "^1.2.4",
+    "cashfreereactnativepg": "^1.2.5",
     "react": "16.6.3",
     "react-native": "0.58.6",
     "react-native-base64": "0.0.2",
